@@ -1,0 +1,14 @@
+#signUpForm{
+    -webkit-transform: scaleY(1);
+	-o-transform: scaleY(1);
+	-ms-transform: scaleY(1);
+    transform: scaleY(1);
+    -webkit-transform-origin: bottom;
+	-o-transform-origin: bottom;
+	-ms-transform-origin: bottom;
+	transform-origin: bottom;
+    -webkit-transition: -webkit-transform 0.26s ease-out;
+	-o-transition: -o-transform 0.26s ease;
+	-ms-transition: -ms-transform 0.26s ease;
+    transition: transform 0.26s ease;
+}
